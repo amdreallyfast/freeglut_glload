@@ -1,0 +1,4 @@
+*.sdf   // intellisense database
+
+// stuff spit out by VS's project building
+Debug/
